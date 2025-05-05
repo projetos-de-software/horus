@@ -1,0 +1,8 @@
+{
+  "name": "horus",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:projetos-de-software/horus.git",
+  "author": "Marcos de Lima Carlos <mlimacarlos@gmail.com>",
+  "license": "MIT"
+}
